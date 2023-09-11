@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rAb/7xWILCMYwhrd1MScaz4lcFI4CPUY3H6Nm7m2xlqFRabs1ah+cvuwV7HhtmQbpSoVL/oDSwOFuGsPgvrfKA==",
+  "dgSpecHash": "IT1B96G/PeGMNdu8JgvVVKbBWfTbBPkdnRhIy7VQ0dSPRfosR3HfDYm1VTWgmq88Yl/H+SbNo4n+VZ3sC/Mg4w==",
   "success": true,
   "projectFilePath": "/Users/arthur.onoszko/dev/TDD/TDD/Money.Tests/Money.Tests.csproj",
   "expectedPackageFiles": [

@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Money/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Money.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Money.dll": {}
+        }
       }
     }
   },
@@ -5506,11 +5516,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Money/1.0.0": {
+      "type": "project",
+      "path": "../Money/Money.csproj",
+      "msbuildProject": "../Money/Money.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
+      "Money >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5541,7 +5557,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/arthur.onoszko/dev/TDD/TDD/Money/Money.csproj": {
+              "projectPath": "/Users/arthur.onoszko/dev/TDD/TDD/Money/Money.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

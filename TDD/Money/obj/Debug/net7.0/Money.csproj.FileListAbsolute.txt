@@ -1,0 +1,12 @@
+/Users/arthur.onoszko/dev/TDD/TDD/Money/bin/Debug/net7.0/Money.deps.json
+/Users/arthur.onoszko/dev/TDD/TDD/Money/bin/Debug/net7.0/Money.dll
+/Users/arthur.onoszko/dev/TDD/TDD/Money/bin/Debug/net7.0/Money.pdb
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.csproj.AssemblyReference.cache
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.AssemblyInfoInputs.cache
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.AssemblyInfo.cs
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.csproj.CoreCompileInputs.cache
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.dll
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/refint/Money.dll
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/Money.pdb
+/Users/arthur.onoszko/dev/TDD/TDD/Money/obj/Debug/net7.0/ref/Money.dll
